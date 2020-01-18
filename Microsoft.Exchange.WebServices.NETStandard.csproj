@@ -26,6 +26,7 @@ restored ldap autodiscover functionality
 merged changes from official Microsoft repository
 added cancellation token for most of methods
     </PackageReleaseNotes>
+    <Version>2.0.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup Condition=" '$(TargetFramework)' == 'net461' ">
